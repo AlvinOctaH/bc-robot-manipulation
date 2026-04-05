@@ -1,0 +1,16 @@
+camera:
+  width:  640
+  height: 480
+  fps:    30
+  fx: 615.0
+  fy: 615.0
+  cx: 320.0
+  cy: 240.0
+  depth_scale:  0.001
+  min_depth_m:  0.05
+  max_depth_m:  1.50
+  depth_topic:  /camera/depth/image_raw
+  color_topic:  /camera/color/image_raw
+  info_topic:   /camera/color/camera_info
+  optical_frame:  camera_depth_optical_frame
+  base_frame:     base_link
