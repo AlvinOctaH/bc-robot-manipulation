@@ -1,0 +1,29 @@
+# Dataset (too large for git)
+data/
+
+# Model checkpoints
+results/bc_policy.pth
+results/loss_history.json
+
+# Video output (too large for git)
+results/demo.mp4
+
+# Debug scripts (internal tooling, not needed in repo)
+scripts/debug_*.py
+scripts/test_env.py
+test_env.py
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Conda / virtualenv
+*.egg-info/
+.env
+.venv
+
+# OS
+.DS_Store
+Thumbs.db
