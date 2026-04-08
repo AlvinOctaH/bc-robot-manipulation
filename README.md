@@ -194,3 +194,18 @@ This project is motivated by [SuFIA-BC (ICRA 2025)](https://orbit-surgical.githu
 - [Orbit-Surgical: An Open-Simulation Framework for Learning Surgical Augmented Dexterity](https://orbit-surgical.github.io/) — Yu et al., ICRA 2024
 - [SuFIA-BC: Generating High Quality Demonstration Data for Visuomotor Policy Learning in Surgical Subtasks](https://orbit-surgical.github.io/sufia-bc/) — ICRA 2025
 - [RoboMimic: A Study of Imitation Learning Algorithms for Robotic Manipulation](https://robomimic.github.io/)
+
+---
+
+## Author
+
+**Alvin Octa Hidayathullah**
+B.Eng. Robotics & AI Engineering, Universitas Airlangga
+
+[![GitHub](https://img.shields.io/badge/GitHub-AlvinOctaH-181717?logo=github)](https://github.com/AlvinOctaH)
+
+---
+
+## License
+
+This project is licensed under the MIT License — see [LICENSE](LICENSE) for details.
